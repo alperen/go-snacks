@@ -1,0 +1,62 @@
+[
+	{
+		"title": "MongoDB",
+		"content": "en",
+		"language": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schema. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL)."
+	},
+	{
+		"title": "PHP",
+		"content": "en",
+		"language": "PHP is a general-purpose programming language originally designed for web development. It was originally created by Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor."
+	},
+	{
+		"title": "MySQL",
+		"content": "en",
+		"language": "MySQL is an open-source relational database management system (RDBMS). Its name is a combination of \"My\", the name of co-founder Michael Widenius's daughter, and \"SQL\", the abbreviation for Structured Query Language."
+	},
+	{
+		"title": "JavaScript",
+		"content": "en",
+		"language": "JavaScript, often abbreviated as JS, is a high-level, just-in-time compiled, multi-paradigm programming language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions."
+	},
+	{
+		"title": "JavaScript",
+		"content": "tr",
+		"language": "JavaScript, yaygın olarak web tarayıcılarında kullanılmakta olan dinamik bir programlama dilidir. JavaScript ile yazılan istemci tarafı betikler sayesinde tarayıcının kullanıcıyla etkileşimde bulunması, tarayıcının kontrol edilmesi, asenkron bir şekilde sunucu ile iletişime geçilmesi ve web sayfası içeriğinin değiştirilmesi gibi işlevler sağlanır. JavaScript, Node.js gibi platformlar sayesinde sunucu tarafında da yaygın olarak kullanılmaktadır."
+	},
+	{
+		"title": "PHP",
+		"content": "tr",
+		"language": "PHP : Hypertext Preprocessor, internet için üretilmiş, sunucu taraflı, çok geniş kullanımlı, genel amaçlı, içerisine HTML gömülebilen betik ve programlama dilidir. İlk kez 1995 yılında Rasmus Lerdorf tarafından yaratılan PHP'nin geliştirilmesi bugün PHP topluluğu tarafından sürdürülmektedir. Ocak 2013 itibarıyla 244 milyondan fazla web sitesi PHP ile çalışırken 2.1 milyon web sunucusunda PHP kurulumu bulunmaktadır."
+	},
+	{
+		"title": "MongoDB",
+		"content": "tr",
+		"language": "MongoDB (“humongous”); MongoDB Inc. tarafından ölçeklenebilir, doküman tabanlı, C++ ile geliştirilmiş açık kaynak, NoSQL veritabanı uygulamasıdır. MongoDB, verileri JSON tipinde dokümanlarda saklamakatadır, anlamsal alanları dokümandan dokümana değişir ve veri yapısı zaman içinde değiştirilebilir. Belge modeli, uygulamanızın kodundaki nesnelerle eşleştirilir, böylece verilerin kullanımı kolaylaşır. Geçici sorgular, dizin oluşturmak için ve gerçek zamanlı verilerinize erişmek ve analiz etmek için güçlü yollar sağlar. MongoDB, özellikle hız gerektiren ve geleneksel ilişkisel veritabanlarının (RDBMS) hantal ve yavaş kaldığı yapılarda kullanılmaktadır.MongoDB, dağıtılmış bir veritabanı yapısına sahiptir, bu nedenle yüksek erişilebilirlik, yatayda ve dikeyde ölçeklendirme yapılabilmektedir. MongoDB, GNU Affero Genel Kamu Lisansı uyarınca yayınlanan ücretsiz ve açık kaynaktır."
+	},
+	{
+		"title": "MySQL",
+		"content": "tr",
+		"language": "MySQL, altı milyondan fazla sistemde yüklü bulunan çoklu iş parçacıklı, çok kullanıcılı, hızlı ve sağlam bir veri tabanı yönetim sistemidir."
+	},
+	{
+		"title": "MongoDB",
+		"content": "fr",
+		"language": "MongoDB est un système de gestion de base de données orienté documents, répartissable sur un nombre quelconque d'ordinateurs et ne nécessitant pas de schéma prédéfini des données. Il est écrit en C++. Le serveur et les outils sont distribués sous licence SSPL, les pilotes sous licence Apache et la documentation sous licence Creative Commons. Il fait partie de la mouvance NoSQL."
+	},
+	{
+		"title": "PHP",
+		"content": "fr",
+		"language": "PHP: Hypertext Preprocessor, plus connu sous son sigle PHP, est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet."
+	},
+	{
+		"title": "MySQL",
+		"content": "fr",
+		"language": "MySQL est un système de gestion de bases de données relationnelles (SGBDR). Il est distribué sous une double licence GPL et propriétaire. Il fait partie des logiciels de gestion de base de données les plus utilisés au monde, autant par le grand public que par des professionnels, en concurrence avec Oracle, PostgreSQL et Microsoft SQL Server."
+	},
+	{
+		"title": "JavaScript",
+		"content": "fr",
+		"language": "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives mais aussi pour les serveurs avec l'utilisation de Node.js. C'est un langage orienté objet à prototype, c'est-à-dire que les bases du langage et ses principales interfaces sont fournies par des objets qui ne sont pas des instances de classes, mais qui sont chacun équipés de constructeurs permettant de créer leurs propriétés, et notamment une propriété de prototypage qui permet d'en créer des objets héritiers personnalisés. En outre, les fonctions sont des objets de première classe. Le langage supporte le paradigme objet, impératif et fonctionnel. JavaScript est le langage possédant le plus large écosystème grâce à son gestionnaire de dépendances npm, avec environ 500 000 paquets en août 2017."
+	}
+]
